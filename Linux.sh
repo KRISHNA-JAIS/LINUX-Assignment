@@ -1,8 +1,8 @@
 #!/bin/bash
 echo “Shell Scripting is Fun!”
 
-TEMP=”Shell Scripting is Fun!”
-echo $TEMP
+Vari=”Shell Scripting is Fun!”
+echo $Vari
 
 HOSTNAME=$(hostname)
 echo “This script is running on $HOSTNAME”
